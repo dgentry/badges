@@ -10,8 +10,8 @@ Generic
 
 .. |Generic badge| image:: https://img.shields.io/badge/%3CSUBJECT%3E-%3CSTATUS%3E-%3CCOLOR%3E.svg
     :target: https://shields.io/
-.. |Build Status| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
-    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
+.. |Build Status| image:: https://github.com//pymacs2/Pymacs/workflows/Makefile%20CI/badge.svg
+    :target: https://github.com/pymacs2/Pymacs
 
 That broke it.  Back to no README.
 
