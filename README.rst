@@ -13,14 +13,6 @@ Generic
     .. |Generic badge| image:: https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
        :target:
 
---------------
-
-Useful
-------
-
-Maintained?
-~~~~~~~~~~~
-
 Maintained: |Maintenance yes|
 
 .. |Generic badge| image:: https://img.shields.io/badge/%3CSUBJECT%3E-%3CSTATUS%3E-%3CCOLOR%3E.svg
