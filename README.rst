@@ -18,6 +18,17 @@ Can I add stuff?  Let's find out.
 
 That broke it.  Back to no README.
 
+
+Pymacs is a powerful tool which, once started from Emacs, allows
+both-way communication between Emacs Lisp and Python.  Pymacs aims
+Python as an extension language for Emacs rather than the other way
+around, and this asymmetry is reflected in some design choices.
+Within Emacs Lisp code, one may load and use Python modules.  Python
+functions may themselves use Emacs services, and handle Emacs Lisp
+objects kept in Emacs Lisp space.
+
+See below for translation credits (`Belorussian <https://web.archive.org/web/20110202105549/http://www.movavi.com/opensource/pymacs-be>`_, `Deutsche <https://web.archive.org/web/20130822054524/http://uhrenstore.de/blog/readmedateifurpymacs>`_)
+
 1 Installation
 --------------
 
