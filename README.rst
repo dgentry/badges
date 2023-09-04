@@ -1,15 +1,8 @@
-Badges, in reStructuredText
-===================================
-
-Generic
--------
-
-|Generic badge|
+Pymacs
+======
 
 |Build Status|
 
-.. |Generic badge| image:: https://img.shields.io/badge/%3CSUBJECT%3E-%3CSTATUS%3E-%3CCOLOR%3E.svg
-    :target: https://shields.io/
 .. |Build Status| image:: https://github.com//pymacs2/Pymacs/workflows/Makefile%20CI/badge.svg
     :target: https://github.com/pymacs2/Pymacs
 
