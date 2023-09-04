@@ -25,15 +25,6 @@ Pymacs — Notes
     :Author: François Pinard
     :Maintainer: Dennis Gentry
 
-|BuildStatus|
-
-.. |BuildStatus| image:: https://github.com//pymacs2/Pymacs/workflows/Makefile%20CI/badge.svg
-    :target: https://github.com/
-
-
-.. contents::
-
-
 Pymacs is a powerful tool which, once started from Emacs, allows
 both-way communication between Emacs Lisp and Python.  Pymacs aims
 Python as an extension language for Emacs rather than the other way
