@@ -1,5 +1,5 @@
-Badges, in reStructuredText
-===================================
+Pymacs — Notes
+==============
 
 Generic
 -------
@@ -12,6 +12,10 @@ Generic
     :target: https://shields.io/
 .. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
     :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
+
+|Build Status|
+.. |Build Status| image:: https://github.com/pymacs2/Pymacs/workflows/Makefile%20CI/badge.svg
+    :target https://github.com/pymacs2/Pymacs/workflows/Makefile%20CI/badge.svg
 
 Can I add stuff?  Let's find out.
 
