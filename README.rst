@@ -383,7 +383,7 @@ example|
 
     .. |PyPI status| image:: https://img.shields.io/pypi/status/ansicolortags.svg
        :target: https://pypi.python.org/pypi/ansicolortags/
-       
+
 --------------
 
 `JavaScript <https://www.javascript.com/>`__ related
@@ -1860,3 +1860,6 @@ License ? |GitHub license badges|
     :target: https://GitHub.com/Naereen/badges/graphs/commit-activity
 .. |Analytics badges| image:: https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel
     :target: https://GitHub.com/Naereen/badges/
+
+
+Can I add stuff?  Let's find out.
