@@ -18,6 +18,8 @@ Can I add stuff?  Let's find out.
 
 That broke it.  Back to no README.
 
+    :Author: François Pinard
+    :Maintainer: Dennis Gentry
 
 Pymacs is a powerful tool which, once started from Emacs, allows
 both-way communication between Emacs Lisp and Python.  Pymacs aims
