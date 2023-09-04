@@ -13,10 +13,9 @@ Generic
 .. |Build Status| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
     :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
 
-Can I add stuff?  Let's find out.
-
-
-That broke it.  Back to no README.
+===================
+  Pymacs -- Notes
+===================
 
     :Author: François Pinard
     :Maintainer: Dennis Gentry
