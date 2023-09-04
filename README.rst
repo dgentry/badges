@@ -1,5 +1,4 @@
-===================================
-Pymacs -- Notes
+Badges, in reStructuredText
 ===================================
 
 Generic
@@ -13,6 +12,8 @@ Generic
     :target: https://shields.io/
 .. |Build Status| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
     :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
+
+That broke it.  Back to no README.
 
     :Author: François Pinard
     :Maintainer: Dennis Gentry
